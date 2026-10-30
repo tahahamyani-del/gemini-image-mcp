@@ -1,0 +1,14 @@
+{
+  "name": "gemini-image-mcp",
+  "version": "1.0.0",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.0.0",
+    "@google/genai": "^1.0.0",
+    "express": "^4.21.2"
+  }
+}
